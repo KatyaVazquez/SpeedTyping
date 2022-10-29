@@ -1,0 +1,41 @@
+.highlight {
+    background-color: yellow;
+}
+.error {
+    background-color: rgb(172, 106, 106);
+    border-color: red;
+}
+h1 {
+    color: rgb(84, 1, 92);
+    font-size: xx-large;
+}
+#Desarrollo {
+    color: rgb(240, 44, 158);
+    background-color: white;
+    font-size: large;
+}
+#Texto2 {
+    background-color: white;
+    font-size: large;
+}
+#CONTENEDOR {
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 15px;
+    margin: 15%;
+    font-size: large;
+    color: rgb(255, 0, 212);
+}
+#inicio{
+    background-color: rgb(230, 145, 233);
+}
+#texto-tipeado{
+    border-color: purple;
+}
+#curiosidad{
+    color: rgb(226, 14, 173);
+    font-family: 'Times New Roman', Times, serif;
+    height: 25px;
+    margin: 25%;
+    font-size: medium;
+}
