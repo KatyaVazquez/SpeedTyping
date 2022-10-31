@@ -1,6 +1,6 @@
-const textos = ['I love Java Script', 'My name is Pepito', 'Hay mas formas de vida viviendo en tu piel que humanos en la Tierra', 'ProgramandoPy', 'Preparados para programar un PARAGUAY mejor' ];
+const textos = ['El lenguaje entendido por una computadora se conoce como codigo maquina', 'la programacion refiere a la accion de crear programas o aplicaciones a traves del desarrollo de un codigo fuente, que se basa en el conjunto de instrucciones que sigue el ordenador para ejecutar un programa', 'Hay mas formas de vida viviendo en tu piel que humanos en la Tierra', 'ProgramandoPy', 'Preparados para programar un PARAGUAY mejor' ];
 // almacena la lista de palabras y el índice de la palabra que el jugador está escribiendo actualmente
-let palabras = ['I love Java Script', 'My name is Pepito', 'Hay mas formas de vida viviendo en tu piel que humanos en la Tierra', 'ProgramandoPy', 'Preparados para programar un PARAGUAY mejor' ];
+let palabras = ['El lenguaje entendido por una computadora se conoce como codigo maquina', 'la programacion refiere a la accion de crear programas o aplicaciones a traves del desarrollo de un codigo fuente, que se basa en el conjunto de instrucciones que sigue el ordenador para ejecutar un programa', 'Hay mas formas de vida viviendo en tu piel que humanos en la Tierra', 'ProgramandoPy', 'Preparados para programar un PARAGUAY mejor' ];
 let palabraIndice = 0;
 // la hora de inicio
 let startTime = Date.now();
